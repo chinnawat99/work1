@@ -7,6 +7,7 @@ import plotly.graph_objects as go
 
 #st.header("Kairungxx")
 
+st.image("./pic/chinnawat.jpg")
 
 html_8 = """
 <div style="background-color:#99FF99;padding:15px;border-radius:15px 15px 15px 15px;border-style:'solid';border-color:black">
